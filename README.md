@@ -67,7 +67,8 @@ Insira a chave do produto, se necessário.
 Após a configuração, o Windows XP iniciará pela primeira vez.
 Instale os Guest Additions do VirtualBox para melhorar desempenho e resolução de tela.
 
-![sla](<img width="581" height="590" alt="image" src="https://github.com/user-attachments/assets/70738c63-7865-4e5b-b274-5e893b61a941" />)
+![sla](<img width="705" height="483" alt="image" src="https://github.com/user-attachments/assets/ad7d01f3-a7b1-4ff6-9610-55c8cf3a4475" />
+
 
 
 
