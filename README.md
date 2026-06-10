@@ -82,3 +82,20 @@ Instale os Guest Additions do VirtualBox para melhorar desempenho e resolução 
 
 
 
+
+
+
+
+
+
+
+
+
+![sla](<img width="609" height="550" alt="image" src="https://github.com/user-attachments/assets/9478689b-545f-415c-a508-51001a2735cc" />
+
+
+
+
+
+
+
